@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41797993998",
+    "project_id": "obss-ec815",
+    "storage_bucket": "obss-ec815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41797993998:android:b81977463a5e1f81715e5f",
+        "android_client_info": {
+          "package_name": "com.sude.ogrencibilgisistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41797993998-amtducecf78o6hmdgsp94k5lipfe1ida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFX_tAZFSjigRWjr0PQm9RU96t5lZRpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41797993998-amtducecf78o6hmdgsp94k5lipfe1ida.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
